@@ -10,7 +10,7 @@ sensors:
 spring:
     datasource:
         username: admin
-        password: password
+        password: {cypher} e38a5f3745692db8cc1c117dcb2d93cf5776f0234fa2ab3bc8751637d140a807
         url: jdbc:postgresql://localhost:5432/home
         driverClassName: org.postgresql.Driver
 
